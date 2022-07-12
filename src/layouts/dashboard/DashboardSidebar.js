@@ -73,7 +73,7 @@ export default function DashboardSidebar({ isOpenSidebar, onCloseSidebar }) {
                 {CONFIGURATION.profile.name}
               </Typography>
               <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-                Crypto Trader
+                R4 Tech - Dashboard
               </Typography>
             </Box>
           </AccountStyle>
